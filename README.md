@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **OUTDOOR ROBOT**
 
-- 🤝 I’m looking for help with **Arduinos & PCBs**
+- 🤝 I’m looking for help with **Advanced PCB design Topics**
 
 - 💬 Ask me about **PCB , ROBOTICS , low -level programming , Arduino , Embedded Linux**
 
